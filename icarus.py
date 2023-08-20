@@ -1,4 +1,4 @@
-n = 3
+n = 1234567890
 n = int(n)
 print(str(int(n)) + ": ", end="")
 while n != 1:
